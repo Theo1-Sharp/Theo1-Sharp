@@ -3,7 +3,7 @@
 Hello,
 I am a Full-Stack DevOps engineer who likes learning tech related things.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theo1-Sharp&show_icons=true&theme=transparent&hide_rank=true&bg_color=45,40a2bc,ff9601)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theo1-Sharp&show_icons=true&theme=transparent&hide_rank=true&bg_color=135,40a2bc,ff9601)
 
 # Languages & Tech
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
